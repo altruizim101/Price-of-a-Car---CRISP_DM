@@ -17,8 +17,8 @@ The final submission should include the Jupyter Notebook and other relevant file
 
 ## Links to Project Deliverables
 - READMe file with summary of findings >>  [https://github.com/altruizim101/Price-of-a-Car---CRISP_DM/blob/main/README.md]
-- Link to Jupyter notebook here >>         
-- Data Analysis & Results >>
+- Link to Jupyter notebook here >>         [https://github.com/altruizim101/Price-of-a-Car---CRISP_DM/tree/main]
+- Data Analysis & Results >>               [https://github.com/altruizim101/Price-of-a-Car---CRISP_DM/tree/main]
 
 ## (Data Understanding)
 Checked for possible Null (NaN) values in data for removal before analysis. Then filtered NaN data as appropriate.
