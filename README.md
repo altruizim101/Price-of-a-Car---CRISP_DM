@@ -16,7 +16,7 @@ Data Source: ---
 The final submission should include the Jupyter Notebook and other relevant files, such as the dataset provided and uploaded to a GitHub repository.
 
 ## Links to Project Deliverables
-- READMe file with summary of findings >>  
+- READMe file with summary of findings >>  [https://github.com/altruizim101/Price-of-a-Car---CRISP_DM/blob/main/README.md]
 - Link to Jupyter notebook here >>         
 - Data Analysis & Results >>
 
