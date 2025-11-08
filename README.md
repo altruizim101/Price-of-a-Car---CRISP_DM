@@ -1,7 +1,7 @@
 # Price-of-a-Car---CRISP_DM
 
 ## (Goal & Objective)
-# - The Task: Business Understanding -
+# - The Task: Business Understanding
 # 
 Make use and analyze past vehicle data to determine what factors drive the price of a used car. 
 Build and develop a predictive model that estimates the price of a used car based on factors (such as Make, Model,...)
