@@ -20,12 +20,18 @@ The final submission should include the Jupyter Notebook and other relevant file
 - Link to Jupyter notebook here >>         [https://github.com/altruizim101/Price-of-a-Car---CRISP_DM/tree/main]
 - Data Analysis & Results >>               [https://github.com/altruizim101/Price-of-a-Car---CRISP_DM/tree/main]
 
-## (Data Understanding)
-Checked for possible Null (NaN) values in data for removal before analysis. Then filtered NaN data as appropriate.
-Action: removed missing (NaN) data in columns
+## (Data Understanding & Cleaning)
+I checked for possible Null (NaN) values in data for removal before analysis. Then filtered NaN data as appropriate.
+I cleaned and prepared numeric and categorical data accordingly.
 
 ## Analysis
+I split data into train and test data sets. Using multiple Regression models, I evaluated the performace of each.
+Regression models applied in this analysis include Linear, Lasso, and Ridge Regression models.
 
-## Data Visualizations
+From the above results of these models, 
+ 1)  the performance are almost identical for the models.
+ 2)  the models explain only 10% of the variability in the price. This implies weak weak modeling.
+ 3) 90% of price variation is left unexplained by the models.
+
 
 ## Recommendations
