@@ -33,5 +33,21 @@ From the above results of these models,
  2)  the models explain only 10% of the variability in the price. This implies weak weak modeling.
  3) 90% of price variation is left unexplained by the models.
 
+Next, applying cross-validation and scoring the models, we observed that the models explain the data with similar level of variability.
+The R2 score and the Mean-score are comparable for the models.
+Furthermore, the models explain only ~10% of the variability in the price. This implies weak weak models.
+With these models unable to explain ~90% of the price, the relationship between Price and features is non-linear.
+Non-linear techniques should be employed for this.
 
-## Recommendations
+## --- Summary of findings & Reccommendations
+
+From the above analysis of data provided in predicting the proice of a used car, our modeling tool was able to
+only explain 10% of what causes price difference in used car sales.
+This could imply buyers do consider other factors in used car purchase not captured in this data, such as
+brand reputation of the Make/Model, service history of the vehicle, ...
+Given these findings, additional details in data will be very useful in accuractely 
+predicting the price of used car sales.
+This dataset was insightful from the fact that factors to predict used car sales is not 
+a linear relationship among these features in current data set.
+In summary, we will need addtional details, or engineer new features using non-linear model technicques.
+Further modeling and data analysis is required to present a more informed decision on used car pricing.
